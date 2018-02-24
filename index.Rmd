@@ -26,7 +26,7 @@ output: html_document
 
 
 #### things I love:
-<li> <a href="/images/turtle.jpg">turtles</a>
+<li> <a href="images/turtle.jpg">turtles</a>
 <li> SF Giants baseball
 <li> food (airplane and otherwise)
 </li>
