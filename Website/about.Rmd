@@ -1,0 +1,15 @@
+---
+title: "about"
+output:
+  html_document:
+      df_print: paged
+---
+I'm a City Research Scientist for the New York City Department of Health and Mental Hygiene. I play with varied health data sources and study disease patterns to understand the mental health of New Yorkers. I teach R programming and data visualization workshops to other data analysts at the agency. I also co-lead Education and Advocacy Programming for the Asian-American Pacific Islander Employee Resource Group.
+
+My research interests are suicide prevention, mental health emergency department utilization, mental health surveillance, and racial data disaggregation.  
+
+When I'm not playing with data, I'm practicing French, watching baseball, or trying a new restaurant with a dish I've never heard of.
+
+You can reach me at my name at gmail dot com.
+
+My CV can be found <a href="documents/CV.pdf"> here</a>.

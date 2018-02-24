@@ -1,0 +1,34 @@
+---
+title: "publications"
+output:
+  html_document:
+    df_print: paged
+---
+<br>
+</br>
+
+
+Terry MB, Keegan THM, Houghton LC, Goldberg M, Andrulis IL, Daly MB, Buys SS, Wei Y, Whittemore
+AS, <b>Protacio A</b>, Bradbury AR, Chung WK, Knight JA, John EM. <a href="publications/pubertal_development.pdf">Pubertal development in girls by breast
+cancer family history: the LEGACY girls cohort. </a>Breast Cancer Research. 2017 Jun 8. 
+
+Flom JD, Cohn BA, Tehranifar P, Houghton LC, Wei Y, <b>Protacio A</b>, Cirillo P, Michels KB, Terry MB. <a href="publications/earlier_age.pdf">Earlier age at menarche in girls with rapid early life growth: cohort and within sibling analyses. </a>Annals of Epidemiology. 2017 Mar. 
+
+Tehranifar P, Cohn BA, Flom JD, <b>Protacio A</b>, Cirillo P, Lumey LH, Michels KB, Terry MB. <a href="publications/early_life_SES">Early life socioeconomic environment and mammographic breast density. </a>BMC Cancer. 2017 Jan. 
+
+April-Sanders A, Oskar S, Shelton RC, Schmitt KM, Desperito E, <b>Protacio A</b>, Tehranifar P. <a href="publications/predictors_of_bc_worry">Predictors of breast cancer worry in a Hispanic and predominantly immigrant mammography screening population. </a>Women’s Health Issues. 2016 Nov.
+
+<b>Protacio A</b>, Norman C. <a href="publications/databrief75.pdf">Suicides in New York City, 2000 to 2014. </a>New York City Department of Health and Mental Hygiene Epi Data Brief. 2016 Sept.
+
+Tehranifar P, <b>Protacio A</b>, Schmitt K, Desperito E, Oskar S, Potter AJ, Engmann NJ, Terry MB. <a href="publications/metabolic_syndrome">The metabolic syndrome and mammographic breast density in a racially diverse and predominantly immigrant sample of women. </a>Cancer Causes and Control. 2015 Oct. 
+
+Tawfik H, Kline J, Jacobson J, Tehranifar P, <b>Protacio A</b>, Flom JD, Cirillo P, Cohn BA, Terry MB. <a href="publications/life_course_exposure">Life course exposure to smoke and early menopause and menopausal transition. </a>Menopause. 2015 Oct. 
+
+Chen Y, Wan B, Wang KC, Cao F, Yang Y, <b>Protacio A</b>, Dou Y, Chang HY, Lei M. <a href="publications/crystal_structure">Crystal structure of the N-terminal region of human Ash2L shows a winged-helix motif involved in DNA binding. </a>EMBO Reports. 2011 Jun 10. 
+
+Wang KC, Yang YW, Liu B, Sanyal A, Corces-Zimmerman R, Chen Y, Lajoie BR, <b>Protacio A</b>, Flynn RA,
+Gupta RA, Wysocka J, Lei M, Dekker J, Helms JA, Chang HY. <a href="publications/long_noncoding_RNA">Long noncoding RNA programs active chromatin domain to coordinate homeotic gene activation. </a>Nature. 2011 Apr 7. 
+
+
+
+
