@@ -1,28 +1,27 @@
-name: "angeline protacio"
+name: angeline protacio
 output_dir: '.'
 navbar:
-  title: "angeline protacio"
+  title: angeline protacio
   right:
-  - text: "blog"
+  - text: blog
     href: blog.html
-  - text: "publications"
+  - text: publications
     href: publications.html
-  - text: "find me"
+  - text: find me
     menu:
     - icon: ion-at
-      text: "Twitter"
+      text: Twitter
       href: https://twitter.com/dataangeline
     - icon: ion-android-contact
-      text: "LinkedIn"
+      text: LinkedIn
       href: https://www.linkedin.com/in/angeline-protacio-8993b830/
     - icon: ion-icecream
-      text: "Yelp"
+      text: Yelp
       href: https://angelinep.yelp.com/
-    - icon: ion-social-facebook
-      text: "Facebook"
-      href: https://www.facebook.com/angeline.protacio
 output:
   html_document:
     theme: flatly
-    css: "styles.css"
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
 
