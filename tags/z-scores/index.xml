@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z Scores on Angeline Protacio</title>
+    <link>/tags/z-scores/</link>
+    <description>Recent content in Z Scores on Angeline Protacio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/z-scores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drafting Batters in Fantasy Baseball, Part 4</title>
+      <link>/portfolio/drafting-batters-part-4/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/drafting-batters-part-4/</guid>
+      <description>End of Season Results What-if land Lessons Learned Next Steps   End of Season Results Team Expectations vs. Reality Up until this point, we’ve been looking at stat projections for 2018, but now that the season is over, we can see just how these projections played out. Let’s bring in the final 2018 stats from Fangraphs, and compare them to the projected stats. I’ve renamed all final stats to include the f_ prefix.</description>
+    </item>
+    
+    <item>
+      <title>Drafting Batters in Fantasy Baseball, part 3</title>
+      <link>/portfolio/drafting-batters-part-3/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/drafting-batters-part-3/</guid>
+      <description>Okay, now where were we? There is another way! Up Next   Okay, now where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this first.  In the last two posts, I wrote about my draft strategy using projected WAR, and explored fantasy talent by defensive position. I discovered that WAR (Wins Above Replacement) was not a great way to select players given my league’s scoring categories.</description>
+    </item>
+    
+  </channel>
+</rss>

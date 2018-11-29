@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/post1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>/portfolio/drafting-batters-part-1/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/post2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/portfolio/drafting-batters-part-2/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/post3/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>/portfolio/drafting-batters-part-3/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/post4/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/portfolio/drafting-batters-part-4/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +59,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/baseball/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,13 +75,50 @@
   </url>
   
   <url>
+    <loc>/tags/fantasy/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/positional-talent/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/war/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/z-scores/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
