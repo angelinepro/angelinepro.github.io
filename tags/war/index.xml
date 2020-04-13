@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>War on Angeline Protacio</title>
-    <link>/tags/war/</link>
+    <link>https://www.angelineprotacio.com/tags/war/</link>
     <description>Recent content in War on Angeline Protacio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/war/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.angelineprotacio.com/tags/war/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Drafting Batters in Fantasy Baseball, Part 1</title>
-      <link>/portfolio/drafting-batters-part-1/</link>
+      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/drafting-batters-part-1/</guid>
-      <description>My first season in fantasy baseball What is fantasy baseball? The draft How I prepared for the draft My draft strategy Up next   My first season in fantasy baseball I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons.</description>
+      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</guid>
+      <description>The draft How I prepared for the draft My draft strategy   ###My first season in fantasy baseball
+I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons.</description>
     </item>
     
   </channel>

@@ -7,14 +7,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
-<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/bootstrap.min.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/owl.carousel.css">
-<link rel="stylesheet" href="/css/owl.theme.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/owl.carousel.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/owl.theme.css">
 
 
-  <link href="/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="https://www.angelineprotacio.com/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
 
  
 
@@ -26,8 +26,8 @@
   
 
 
-<link href="/css/custom.css" rel="stylesheet">
-<link rel="shortcut icon" href="/img/favicon.png">
+<link href="https://www.angelineprotacio.com/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://www.angelineprotacio.com/img/favicon.png">
 
 
 <script>
@@ -44,7 +44,7 @@ ga('send', 'pageview');
           <div class="row row-offcanvas row-offcanvas-left">
               <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="/">Angeline Protacio</a></h1>
+    <h1 class="sidebar-heading"><a href="https://www.angelineprotacio.com/">Angeline Protacio</a></h1>
     
       <p class="sidebar-p">I'm reading:</p>
     
@@ -54,11 +54,11 @@ ga('send', 'pageview');
     
     <ul class="sidebar-menu">
       
-        <li><a href="/about/">about</a></li>
+        <li><a href="https://www.angelineprotacio.com/about/">about</a></li>
       
-        <li><a href="/portfolio/">portfolio</a></li>
+        <li><a href="https://www.angelineprotacio.com/portfolio/">portfolio</a></li>
       
-        <li><a href="/publications/">publications</a></li>
+        <li><a href="https://www.angelineprotacio.com/publications/">publications</a></li>
       
     </ul>
     <p class="social">
@@ -113,7 +113,7 @@ ga('send', 'pageview');
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/">Angeline Protacio</a></h1>
+  <h1 class="small-navbar-heading"><a href="https://www.angelineprotacio.com/">Angeline Protacio</a></h1>
 </div>
 
   <div class="row">
@@ -122,30 +122,21 @@ ga('send', 'pageview');
          <h1>Drafting Batters in Fantasy Baseball, Part 1</h1>
          <div id="TOC">
 <ul>
-<li><a href="#my-first-season-in-fantasy-baseball">My first season in fantasy baseball</a></li>
-<li><a href="#what-is-fantasy-baseball">What is fantasy baseball?</a></li>
 <li><a href="#the-draft">The draft</a></li>
 <li><a href="#how-i-prepared-for-the-draft">How I prepared for the draft</a></li>
 <li><a href="#my-draft-strategy">My draft strategy</a></li>
-<li><a href="#up-next">Up next</a></li>
 </ul>
 </div>
 
-<div id="my-first-season-in-fantasy-baseball" class="section level3">
-<h3>My first season in fantasy baseball</h3>
+<p>###My first season in fantasy baseball</p>
 <p>I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons. I was hoping it would encourage me to watch more basketball, but instead I made zero moves, stubbornly refused to trade Kevin Durant, and effectively set my league fees on fire.</p>
-<div class="figure">
-<img src="https://media.giphy.com/media/5aoTMpLEIxlfi/giphy.gif" />
-
-</div>
+<p><img src="https://media.giphy.com/media/5aoTMpLEIxlfi/giphy.gif" /></p>
 <p>Unsurprisingly, this strategy did not help me win.</p>
 <p>Finally, this year, a friend invited me to join his newly founded fantasy baseball league. The fees were a bit steep ($50), and I didn’t really make much progress in my prior fantasy leagues, but I decided to join up anyway. I actually watch baseball, and this seemed like a better incentive to learn how to play fantasy sports. So I signed up, with a vague sense that I was about to go down the <a href="https://media.giphy.com/media/4BgQaxfQfeqys/giphy.gif">rabbit hole</a>.</p>
 <p>There are a lot of parts to Fantasy Baseball, so I’m going to break this up into several posts. This series will focus on batters. I’m going to start this post with a brief introduction to Fantasy Baseball (geared toward those with little to no experience, and a limited understanding of baseball), this year’s draft strategy for batters, and reflections on the metrics I used. The second post will dive a little deeper into positional talent, and how that relates to the metrics I used. The third post will detail an alternate draft strategy, where I beat myself up about the drafting decisions I made. In the fourth post, I’ll look at the success of the team I drafted, and what I could have done differently. In each post, I included the R code I used to explore the player data and to develop a draft strategy, in case you are interested in implementing some of this analysis on your own. It’s also in my <a href="https://github.com/angelinepro/source/tree/master/content">github repo</a>.</p>
 <p>I wrote this post because my initial search for fantasy baseball strategies returned many articles written for people with substantial prior fantasy sports experience. I wanted a reference for someone without significant experience in fantasy sports, that could be implemented by someone with a surface level understanding of baseball and minimal statistics knowledge. I decided to write the guide I wanted to read before this all began. Let’s begin.</p>
-</div>
-<div id="what-is-fantasy-baseball" class="section level3">
-<h3>What is fantasy baseball?</h3>
-<p>Fantasy leagues are made up of several teams competing against each other to win certain scoring categories. For those who have never played any fantasy sports, I’ll use my league as an example.</p>
+<p>###What is fantasy baseball?
+Fantasy leagues are made up of several teams competing against each other to win certain scoring categories. For those who have never played any fantasy sports, I’ll use my league as an example.</p>
 <p>My league uses the following scoring categories:</p>
 <table>
 <thead>
@@ -185,7 +176,6 @@ ga('send', 'pageview');
 <p>Each team in the league drafts players to create a roster, with the goal of winning as many scoring categories as possible. Each player’s real-life numbers contribute to the weekly matchup. For instance, if Mike Trout is on my fantasy team, and real-life Mike Trout hits three home runs that week, those three home runs count for my team.</p>
 <p>Each week, my team plays against an opponent. If my team scores 20 runs that week, and my opponent’s team scores 18 runs that week, I win the Runs category for that week. If my team strikes out 10 times, and my opponent’s team strikes out 8 times, my opponent wins the Strikeouts category for that week (because striking out is bad). Categories won, lost, and tied are counted up each week. Throughout the 21 weeks of the fantasy season, I want to win as many categories as possible.</p>
 <p>Before play begins, however, there is a league draft.</p>
-</div>
 <div id="the-draft" class="section level3">
 <h3>The draft</h3>
 <p>In the draft, each team takes turns drafting players to fill their available positions. For batting, there are a total of thirteen slots, comprising eight fielding positions (catcher, first base, second base, shortstop, third base, and left, center, and right field), plus two utility players (any position). There are also fourteen slots for pitchers. Seven slots are available for bench players, which can be divided up between batters and pitchers as you wish. I’ll discuss pitching in another post, but my drafted batters looked like this:</p>
@@ -257,7 +247,8 @@ ga('send', 'pageview');
 </table>
 <p>Drafted players are now on your team, but you can drop players who aren’t contributing, and add free agents who aren’t currently on a team throughout the season. You can also trade with other teams for players you want, up until the trade deadline.</p>
 <p>The draft is important because this may be the only opportunity to pick up high performing players. Players like Mike Trout, or Mookie Betts, for instance, are unlikely to be dropped or traded, barring injury or disaster. It’s important to go into the draft with a strategy, or at least, some idea of how you want to select players. I’d previously spent maybe two hours preparing for my Fantasy Basketball drafts, so I thought this time, I’d devote an afternoon to it. This was not enough time, in hindsight.</p>
-<p><img src="https://media.giphy.com/media/3o7TKpWMuZga6QURwI/giphy.gif" /> <br/><br/></p>
+<p><img src="https://media.giphy.com/media/3o7TKpWMuZga6QURwI/giphy.gif" />
+<br/><br/></p>
 </div>
 <div id="how-i-prepared-for-the-draft" class="section level3">
 <h3>How I prepared for the draft</h3>
@@ -280,8 +271,7 @@ batters &lt;- map2_df(pos_files, pos_names, load_data) %&gt;%
 <h3>My draft strategy</h3>
 <p>An afternoon is not enough time to learn about how to play fantasy baseball and come up with a cohesive, overarching draft strategy. Instead, I did a few quick calculations to empower me to make decisions about whom to draft in the moment, based on what players are available, what positions they play, which scoring categories are strengths for my team, and what gaps remain. To help inform timely draft decisions, I planned to create rank variables for each of the scoring categories, putting each player into quantiles for each category. Six scoring categories is an awful lot to synthesize in the two minutes given to select a player, so I needed to also rank some statistic that accounts for all six scoring categories. Based on my limited research, I decided to use <a href="https://www.fangraphs.com/library/misc/war/">WAR</a> (Wins Above Replacement). WAR is often used as a summary statistic to characterize a player’s total contributions to their team.</p>
 <p>How WAR is calculated differs by source. I got my projected WAR data from Fangraphs, which is calculated using a combination of offensive, defensive, and base running statistics. WAR was already part of the data I downloaded from Fangraphs, so I saved time not calculating a new statistic. However, all of my scoring categories are based on offensive statistics. WAR, while accounting for offensive statistics, also accounts for defense and base running, which are irrelevant to my scoring categories. Someone who has a high WAR may be excellent defensively, but may put up average offensive numbers. They may not help me win my scoring categories. I didn’t take this into account when preparing for my draft, but it ended up coming back to bite me later on.</p>
-<div id="war-what-is-it-good-for" class="section level4">
-<h4>WAR, what is it good for?</h4>
+<p>####WAR, what is it good for?</p>
 <p>I looked at the distribution of projected WAR among all the players in the dataset, to understand how to split players into quantiles. I used a histogram to make sure the number of quantiles I wanted to split players into was large enough to capture the variance in WAR. If I split players up into too few quantiles, I might collapse exceptional players (WAR &gt; 6) with reasonably good players (WAR = 3). If I split players into too many quantiles, I’ll end up with one player in each, which is not helpful for making comparisons.</p>
 <pre class="r"><code>ggplot(batters, aes(x=WAR)) + 
   geom_histogram(bins = 50, fill = &quot;#DD8D29&quot;) + 
@@ -519,7 +509,9 @@ batters %&gt;%
 </table>
 <p>A lot of these players had also been drafted, but of the ones remaining, I picked Buster Posey in the second round for his high WAR, and his low number of strikeouts relative to everyone else in his group. Andrelton Simmons was my fourth round pick for a similar reason, with more stolen bases.</p>
 <p>Seems good so far, right?</p>
-<p><img src="https://media.giphy.com/media/l0MYDpc4QeyN2Dmqk/giphy.gif" /> <br/><br/> As I mentioned above, WAR relies on more than just the scoring categories I care about. In fact, looking at Posey and Simmons, their projections for the scoring categories are low relative to other players with a similar WAR. They are on the lower end for scoring runs (R), hitting homeruns (HR), runs batted in (RBI), and getting on base/hitting for extra bases (OPS).</p>
+<p><img src="https://media.giphy.com/media/l0MYDpc4QeyN2Dmqk/giphy.gif" />
+<br/><br/>
+As I mentioned above, WAR relies on more than just the scoring categories I care about. In fact, looking at Posey and Simmons, their projections for the scoring categories are low relative to other players with a similar WAR. They are on the lower end for scoring runs (R), hitting homeruns (HR), runs batted in (RBI), and getting on base/hitting for extra bases (OPS).</p>
 <pre class="r"><code>batters %&gt;% 
   filter(qt_WAR == 49) %&gt;% 
   select(position, Name, R, HR, RBI, SO, SB, OPS, WAR) %&gt;%
@@ -696,11 +688,10 @@ batters %&gt;%
 </tbody>
 </table>
 <p>Picking these two in the second and fourth round, in hindsight, was not the best idea. In fact, it may not make sense to use WAR to differentiate between players in the early rounds because there is a high opportunity cost to missing out on strong offensive players that actually contribute to my scoring categories. Sorry, Buster.</p>
-<p><img src="https://media.giphy.com/media/WeMQzWA2aiJuU/giphy.gif" /> <br/><br/></p>
-</div>
-<div id="warning-signs" class="section level4">
-<h4>WARning signs</h4>
-<p>I decided to look at how each of the scoring categories related to projected WAR. To do that, I standardized the scoring categories to simplify interpretation and visualization, since the range differs greatly across the scoring categories. Then, I plotted the standardized version against projected WAR.</p>
+<p><img src="https://media.giphy.com/media/WeMQzWA2aiJuU/giphy.gif" />
+<br/><br/></p>
+<p>####WARning signs
+I decided to look at how each of the scoring categories related to projected WAR. To do that, I standardized the scoring categories to simplify interpretation and visualization, since the range differs greatly across the scoring categories. Then, I plotted the standardized version against projected WAR.</p>
 <pre class="r"><code>source(&quot;../R/z_score.R&quot;)
 
 ggplot(batters %&gt;%
@@ -721,15 +712,10 @@ ggplot(batters %&gt;%
   theme(legend.position=&quot;none&quot;)</code></pre>
 <p><img src="/portfolio/2018-11-29-drafting-batters-in-fantasy-baseball-part-1_files/figure-html/plot-WAR-categories-1.png" width="672" /></p>
 <p>Looking at these plots, projected WAR seems to increase slightly with the first four scoring categories, but it doesn’t seem to increase with stolen bases (SB_z), or strikeouts (SO_z) at all.</p>
-</div>
-<div id="war-is-not-the-answer-good-god-yall" class="section level4">
-<h4>WAR is not the answer (good god, y’all)</h4>
-<p>It looks like WAR isn’t great for identifying players that would help win my scoring categories, and it’s not at all related to stealing bases or striking out. I shouldn’t rely on this overall summary category to guide my decisions. Instead, perhaps it’d be more useful to rank players based on their projected performance for each scoring category. The performance in the scoring categories is ultimately what matters, and what will decide whether my team wins the matchup that week.</p>
+<p>####WAR is not the answer (good god, y’all)
+It looks like WAR isn’t great for identifying players that would help win my scoring categories, and it’s not at all related to stealing bases or striking out. I shouldn’t rely on this overall summary category to guide my decisions. Instead, perhaps it’d be more useful to rank players based on their projected performance for each scoring category. The performance in the scoring categories is ultimately what matters, and what will decide whether my team wins the matchup that week.</p>
 <p>At this point in the draft, I changed strategies, and split players into quantiles by 50 again, and ranked each scoring category separately. This time, I filtered results to players who were in the top 4% of projections for runs, home runs, runs batted in, and on base plus slugging. I limited it to these four scoring categories because no player was in the top 4% for all six, and only Mike Trout was in the top 4% for these four categories plus base stealing.</p>
-<div class="figure">
-<img src="https://media.giphy.com/media/YWoB4KtzoBDu39C6DQ/giphy.gif" />
-
-</div>
+<p><img src="https://media.giphy.com/media/YWoB4KtzoBDu39C6DQ/giphy.gif" /></p>
 <p>While I’m sure it’s useful to know how great Mike Trout is, he was already picked up by some other team at this point. Nothing to see here.</p>
 <p>So which players are the cream of the crop for my four scoring categories?</p>
 <pre class="r"><code>batters &lt;- batters %&gt;%
@@ -871,17 +857,11 @@ batters %&gt;%
 </tbody>
 </table>
 <p>This group is in the top 4% of projections for runs, home runs, runs batted in, and OPS. This would have been a solid group to start with. I started seleting players based on this strategy and loosened the filtering criteria as we got further along in the draft. I also made sure to occasionally select players who were projected to have more stolen bases and fewer strikeouts. This strategy requires a lot of analysis in the moment, which can lead to a very stressful three hour draft.</p>
-<div class="figure">
-<img src="https://media.giphy.com/media/l1KVaj5UcbHwrBMqI/giphy.gif" />
-
-</div>
+<p><img src="https://media.giphy.com/media/l1KVaj5UcbHwrBMqI/giphy.gif" /></p>
 <p>In hindsight, I would have been better off spending more than an afternoon strategizing. I have regrets.</p>
 <p><br/><br/></p>
-</div>
-</div>
-<div id="up-next" class="section level3">
-<h3>Up next</h3>
-<p>In the <a href="/../portfolio/drafting-batters-part-2">next part</a>, I’ll explore positional talent as it relates to my draft decisions. Nevermind that I drafted Buster Posey in the second round, but should I have drafted ANY catcher in the second round? Would I have been better off drafting a player from some other position? Which positions are preferable to select from in the early rounds? This will all be covered in the <a href="/../portfolio/drafting-batters-part-2">next post</a>. Stay tuned!</p>
+<p>###Up next
+In the <a href="/../portfolio/drafting-batters-part-2">next part</a>, I’ll explore positional talent as it relates to my draft decisions. Nevermind that I drafted Buster Posey in the second round, but should I have drafted ANY catcher in the second round? Would I have been better off drafting a player from some other position? Which positions are preferable to select from in the early rounds? This will all be covered in the <a href="/../portfolio/drafting-batters-part-2">next post</a>. Stay tuned!</p>
 <p><br/><br/></p>
 <p><a href="/../portfolio/drafting-batters-part-2">Drafting Batters in Fantasy Baseball, Part 2</a></p>
 </div>
@@ -895,15 +875,15 @@ batters %&gt;%
           </div>
       </div>
   </div>
-  <script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/jquery.cookie.js"> </script>
-<script src="/js/ekko-lightbox.js"></script>
-<script src="/js/jquery.scrollTo.min.js"></script>
-<script src="/js/masonry.pkgd.min.js"></script>
-<script src="/js/imagesloaded.pkgd.min.js"></script>
-<script src="/js/owl.carousel.min.js"></script>
-<script src="/js/front.js"></script>
+  <script src="https://www.angelineprotacio.com/js/jquery.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/bootstrap.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/jquery.cookie.js"> </script>
+<script src="https://www.angelineprotacio.com/js/ekko-lightbox.js"></script>
+<script src="https://www.angelineprotacio.com/js/jquery.scrollTo.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/masonry.pkgd.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/owl.carousel.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/front.js"></script>
 
 </body>
 </html>

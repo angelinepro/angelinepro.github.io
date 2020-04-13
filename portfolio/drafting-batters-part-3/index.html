@@ -7,14 +7,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
-<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/bootstrap.min.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
-<link rel="stylesheet" href="/css/font-awesome.min.css">
-<link rel="stylesheet" href="/css/owl.carousel.css">
-<link rel="stylesheet" href="/css/owl.theme.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/owl.carousel.css">
+<link rel="stylesheet" href="https://www.angelineprotacio.com/css/owl.theme.css">
 
 
-  <link href="/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="https://www.angelineprotacio.com/css/style.green.css" rel="stylesheet" id="theme-stylesheet">
 
  
 
@@ -26,8 +26,8 @@
   
 
 
-<link href="/css/custom.css" rel="stylesheet">
-<link rel="shortcut icon" href="/img/favicon.png">
+<link href="https://www.angelineprotacio.com/css/custom.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://www.angelineprotacio.com/img/favicon.png">
 
 
 <script>
@@ -44,7 +44,7 @@ ga('send', 'pageview');
           <div class="row row-offcanvas row-offcanvas-left">
               <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="/">Angeline Protacio</a></h1>
+    <h1 class="sidebar-heading"><a href="https://www.angelineprotacio.com/">Angeline Protacio</a></h1>
     
       <p class="sidebar-p">I'm reading:</p>
     
@@ -54,11 +54,11 @@ ga('send', 'pageview');
     
     <ul class="sidebar-menu">
       
-        <li><a href="/about/">about</a></li>
+        <li><a href="https://www.angelineprotacio.com/about/">about</a></li>
       
-        <li><a href="/portfolio/">portfolio</a></li>
+        <li><a href="https://www.angelineprotacio.com/portfolio/">portfolio</a></li>
       
-        <li><a href="/publications/">publications</a></li>
+        <li><a href="https://www.angelineprotacio.com/publications/">publications</a></li>
       
     </ul>
     <p class="social">
@@ -113,34 +113,25 @@ ga('send', 'pageview');
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/">Angeline Protacio</a></h1>
+  <h1 class="small-navbar-heading"><a href="https://www.angelineprotacio.com/">Angeline Protacio</a></h1>
 </div>
 
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Drafting Batters in Fantasy Baseball, part 3</h1>
-         <div id="TOC">
-<ul>
-<li><a href="#where-were-we">Where were we?</a></li>
-<li><a href="#a-better-strategy">A better strategy</a></li>
-<li><a href="#up-next">Up Next</a></li>
-</ul>
-</div>
-
-<div id="where-were-we" class="section level3">
-<h3>Where were we?</h3>
-<p>If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading <a href="/../portfolio/drafting-batters-part-1">this</a> first. <br> </br> In the last two posts, I wrote about <a href="/../portfolio/drafting-batters-part-1">my draft strategy using projected WAR</a>, and <a href="/../portfolio/drafting-batters-part-2">explored fantasy talent by defensive position</a>. I discovered that <a href="https://www.fangraphs.com/library/misc/war/">WAR</a> (Wins Above Replacement) was not a great way to select players given my league’s scoring categories. In the absence of a summary statistic to guide my decisions, I looked at all of the scoring categories. I was pretty frazzled by the end of the draft.</p>
+         <p>###Where were we?
+If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading <a href="/../portfolio/drafting-batters-part-1">this</a> first.
+<br>
+</br>
+In the last two posts, I wrote about <a href="/../portfolio/drafting-batters-part-1">my draft strategy using projected WAR</a>, and <a href="/../portfolio/drafting-batters-part-2">explored fantasy talent by defensive position</a>. I discovered that <a href="https://www.fangraphs.com/library/misc/war/">WAR</a> (Wins Above Replacement) was not a great way to select players given my league’s scoring categories. In the absence of a summary statistic to guide my decisions, I looked at all of the scoring categories. I was pretty frazzled by the end of the draft.</p>
 <center>
-<img src="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif", style="width:450px;"></img>
+&lt;img src=“<a href="https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif" class="uri">https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif</a>”, style=“width:450px;”&gt;</img>
 </center>
 <p><br/><br/></p>
-</div>
-<div id="a-better-strategy" class="section level3">
-<h3>A better strategy</h3>
+<p>###A better strategy</p>
 <p>In doing research for this post, I found this <a href="https://fantasysixpack.net/creating-fantasy-baseball-player-rater/">article</a> on setting up my own rankings based on my league scoring categories, using z-scores. It’s a simple statistic that identifies what players are above the mean, and by how much. This is so simple, I was kicking myself for using it on draft day. Here’s how it works.</p>
-<div id="create-z-scores" class="section level4">
-<h4>Create Z-Scores</h4>
+<p>####Create Z-Scores</p>
 <pre class="r"><code>bat_z &lt;- batters %&gt;%
   filter(PA &gt;= 300) %&gt;%
   select(playerid, position, Name, Team, R, HR, RBI, SO, SB, OPS, WAR) %&gt;%
@@ -155,9 +146,7 @@ ga('send', 'pageview');
 <p>Once I filtered based on that criteria, I calculated the <a href="https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review">mean</a> and <a href="https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions/a/introduction-to-standard-deviation">standard deviation</a> for the remaining players, and used that to calculate a z-score, indicating how extreme (either positive or negative) that player’s numbers are relative to the mean. Generally, the higher the z-score, the better. A z-score of 4 for home runs is definitely someone I’d love to have on my team. I calculated z-scores for all of the scoring categories, multiplied strikeouts by -1 so they were all on the same scale (we want fewer strikeouts), and then I summed them all to get an overall z-score (I named this variable “tot_z”). This overall z-score looks at all the scoring categories and lets me know how that player compares to others.</p>
 <p>(This is a similar calculation I used to compare the scoring categories with WAR in the first post. Same calculation, different intention.)</p>
 <p>So now let’s look at our top players.</p>
-</div>
-<div id="whos-on-top" class="section level4">
-<h4>Who’s on top?</h4>
+<p>####Who’s on top?</p>
 <pre class="r"><code>bat_z %&gt;% 
   top_n(., 10, tot_z) %&gt;% 
   arrange(desc(tot_z)) %&gt;% 
@@ -316,13 +305,13 @@ ga('send', 'pageview');
 <p>Trout’s on top, not surprisingly.</p>
 <br/> </br>
 <center>
-<img src="https://media.giphy.com/media/69jvQP1nAJcuDHXOY2/giphy.gif", style="width:450px;"></img>
+&lt;img src=“<a href="https://media.giphy.com/media/69jvQP1nAJcuDHXOY2/giphy.gif" class="uri">https://media.giphy.com/media/69jvQP1nAJcuDHXOY2/giphy.gif</a>”, style=“width:450px;”&gt;</img>
 </center>
 <p><br/><br/></p>
 <p>There is considerable overlap between this list of names and players with high projected WAR, but now this list accounts for projected stolen bases, and projected strikeouts. This is much easier to keep track of in the moment.</p>
 <p>Forgive the digression, but I’m still beating myself up about Buster Posey.</p>
 <center>
-<img src="https://media.giphy.com/media/FTu9FexqezV9C/giphy.gif", style="width:450px;"></img>
+&lt;img src=“<a href="https://media.giphy.com/media/FTu9FexqezV9C/giphy.gif" class="uri">https://media.giphy.com/media/FTu9FexqezV9C/giphy.gif</a>”, style=“width:450px;”&gt;</img>
 </center>
 <p><br/><br/></p>
 <p>Going back to the question I explored in the <a href="/../portfolio/drafting-batters-part-2">last post</a> about positional talent, would I have had a different pool of talent to choose from if I’d looked at z-scores instead of WAR?</p>
@@ -763,10 +752,8 @@ ga('send', 'pageview');
 </table>
 <p>Given that no one who ranked above him was available in my league by the eighth round, Odor seems to be a reasonable pick.</p>
 <p>Now that I know using z-scores would have changed my picks for catcher and shortstop (but not second base), I’m going to look at z-scores for the rest of my draft picks.</p>
-</div>
-<div id="my-draft-picks" class="section level4">
-<h4>My draft picks</h4>
-<p>Below, I filtered the full dataset to only include players I drafted. For reference, my team name is “Dropped Third Strike”, after the <a href="https://sabr.org/research/dropped-third-strike-life-and-times-rule">obscure baseball rule</a> (shortened here to DTS for object-naming). I added in information on draft order as well.</p>
+<p>####My draft picks
+Below, I filtered the full dataset to only include players I drafted. For reference, my team name is “Dropped Third Strike”, after the <a href="https://sabr.org/research/dropped-third-strike-life-and-times-rule">obscure baseball rule</a> (shortened here to DTS for object-naming). I added in information on draft order as well.</p>
 <pre class="r"><code>DTS_bat &lt;- as.data.frame(cbind(c(&quot;Mookie Betts&quot;, &quot;Buster Posey&quot;, &quot;Andrelton Simmons&quot;, &quot;Edwin Encarnacion&quot;, &quot;Rougned Odor&quot;, &quot;Mike Moustakas&quot;, &quot;Adam Jones&quot;, &quot;Manuel Margot&quot;, &quot;Brandon Crawford&quot;, &quot;Max Kepler&quot;, &quot;Brandon Belt&quot;, &quot;Stephen Piscotty&quot;, &quot;Maikel Franco&quot;, &quot;Jose Peraza&quot;), c(01, 02, 04, 05, 08, 11, 12, 13, 18, 20, 21, 23, 24, 25)))
 names(DTS_bat) &lt;- c(&quot;Name&quot;, &quot;draft_order&quot;)
 
@@ -877,19 +864,13 @@ drafted %&gt;%
 </tbody>
 </table>
 <p>I ended up drafting four batters with negative projected z-scores (meaning they are projected to perform below average): Margot, Crawford, Piscotty, and Peraza. And fandom bias strikes again, because I drafted three Giants, and one player from every other team. I already mentioned that Buster Posey was not the best pick at the catcher’s position, but I also ended up picking up Crawford, who had mediocre to bad projected z-scores for many scoring categories. This was a bad pick, and I ended up dropping him early in the season.</p>
-<div class="figure">
-<img src="https://media.giphy.com/media/lloFKP79zGtY4/giphy.gif" />
-
-</div>
-<p><br> </br></p>
+<p><img src="https://media.giphy.com/media/lloFKP79zGtY4/giphy.gif" /></p>
+<p><br>
+</br></p>
 <p>I’m a little surprised by Franco, who has a rather high z-score for being available until the 24th round, and Belt for the same reason (21st round).</p>
-</div>
-</div>
-<div id="up-next" class="section level3">
-<h3>Up Next</h3>
-<p>In the <a href="/../portfolio/drafting-batters-part-4">next</a> post, I’ll wrap this up and look at how my players actually did, comparing the projection to the final 2018 data. Which players were truly bad picks? Who outperformed their projection? Stay tuned!</p>
+<p>###Up Next
+In the <a href="/../portfolio/drafting-batters-part-4">next</a> post, I’ll wrap this up and look at how my players actually did, comparing the projection to the final 2018 data. Which players were truly bad picks? Who outperformed their projection? Stay tuned!</p>
 <p><a href="/../portfolio/drafting-batters-part-4">Drafting Batters in Fantasy Baseball, Part 4</a></p>
-</div>
 
          
       </div>
@@ -900,15 +881,15 @@ drafted %&gt;%
           </div>
       </div>
   </div>
-  <script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/jquery.cookie.js"> </script>
-<script src="/js/ekko-lightbox.js"></script>
-<script src="/js/jquery.scrollTo.min.js"></script>
-<script src="/js/masonry.pkgd.min.js"></script>
-<script src="/js/imagesloaded.pkgd.min.js"></script>
-<script src="/js/owl.carousel.min.js"></script>
-<script src="/js/front.js"></script>
+  <script src="https://www.angelineprotacio.com/js/jquery.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/bootstrap.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/jquery.cookie.js"> </script>
+<script src="https://www.angelineprotacio.com/js/ekko-lightbox.js"></script>
+<script src="https://www.angelineprotacio.com/js/jquery.scrollTo.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/masonry.pkgd.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/owl.carousel.min.js"></script>
+<script src="https://www.angelineprotacio.com/js/front.js"></script>
 
 </body>
 </html>
