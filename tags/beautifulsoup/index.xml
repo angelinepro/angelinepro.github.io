@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beautifulsoup on Angeline Protacio</title>
+    <link>https://www.angelineprotacio.com/tags/beautifulsoup/</link>
+    <description>Recent content in Beautifulsoup on Angeline Protacio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.angelineprotacio.com/tags/beautifulsoup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Webscraping Baseball Data using Python</title>
+      <link>https://www.angelineprotacio.com/portfolio/webscraping/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.angelineprotacio.com/portfolio/webscraping/</guid>
+      <description>Why Scrape Baseball Data? Scraping Fangraphs Scraping Baseball Reference Wrap Up   Why Scrape Baseball Data? I recently enrolled in a data science bootcamp at Metis. Throughout the 12 weeks of the bootcamp, we work on five different projects to apply what we’ve learned thus far. One of the current projects includes webscraping data to use for predictive modeling. I opted to try my luck at scraping data from Fangraphs and Baseball Reference, neither of which have APIs that make it easy to get their data.</description>
+    </item>
+    
+  </channel>
+</rss>
