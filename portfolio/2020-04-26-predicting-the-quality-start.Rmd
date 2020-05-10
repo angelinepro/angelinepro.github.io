@@ -21,7 +21,7 @@ description: "Linear regression with scikit-learn"
 
 In developing a strategy for drafting pitchers, I had Fangraphs projections for all of the relevant scoring categories except quality starts. I searched high and wide for this through all of the projection systems on Fangraphs, and then I came across this comment, which made me realize I wasn't the only one who wanted it. 
 
-![](static/portfolio/2020-04-26-predicting-the-quality-start_files/comment.png)
+![](/img/quality_start/comment.png)
 
 Clearly, if I figured out how to predict quality starts, I'd be addressing a gap for me and other fantasy baseball owners, and I'd be able to apply my z-score method (addressed [here][1]) to pitching data as well. Quality starts is continuous, so linear regression seemed like an appropriate approach.
 

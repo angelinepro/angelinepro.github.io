@@ -134,7 +134,7 @@ ga('send', 'pageview');
 <div id="introduction" class="section level3">
 <h3>Introduction</h3>
 <p>In developing a strategy for drafting pitchers, I had Fangraphs projections for all of the relevant scoring categories except quality starts. I searched high and wide for this through all of the projection systems on Fangraphs, and then I came across this comment, which made me realize I wasn’t the only one who wanted it.</p>
-<p><img src="static/portfolio/2020-04-26-predicting-the-quality-start_files/comment.png" /></p>
+<p><img src="/img/quality_start/comment.png" /></p>
 <p>Clearly, if I figured out how to predict quality starts, I’d be addressing a gap for me and other fantasy baseball owners, and I’d be able to apply my z-score method (addressed <a href="/../portfolio/drafting-batters-part-3">here</a>) to pitching data as well. Quality starts is continuous, so linear regression seemed like an appropriate approach.</p>
 </div>
 <div id="getting-the-data" class="section level3">
@@ -350,7 +350,7 @@ color_dict = dict(zip(years, year_colors))
 sns.boxplot(x = &quot;variable&quot;, y = &quot;value&quot;, data = allqs2, showmeans = True, meanprops={&quot;marker&quot;:&quot;s&quot;,&quot;markerfacecolor&quot;:&#39;white&#39;, &quot;markeredgecolor&quot;:&quot;black&quot;}, color = &#39;#D50032&#39;)
 plt.xlabel(&#39;Year of Data&#39;)
 plt.xticks(range(0,3,1), (&quot;2017&quot;, &#39;2018&#39;, &#39;2019&#39;))</code></pre>
-<pre><code>## ([&lt;matplotlib.axis.XTick object at 0x12869d9d0&gt;, &lt;matplotlib.axis.XTick object at 0x12869d990&gt;, &lt;matplotlib.axis.XTick object at 0x123f10710&gt;], [Text(0, 0, &#39;2017&#39;), Text(0, 0, &#39;2018&#39;), Text(0, 0, &#39;2019&#39;)])</code></pre>
+<pre><code>## ([&lt;matplotlib.axis.XTick object at 0x1293f1ad0&gt;, &lt;matplotlib.axis.XTick object at 0x1293f1a90&gt;, &lt;matplotlib.axis.XTick object at 0x129442150&gt;], [Text(0, 0, &#39;2017&#39;), Text(0, 0, &#39;2018&#39;), Text(0, 0, &#39;2019&#39;)])</code></pre>
 <pre class="python"><code>plt.ylabel(&#39;Quality Starts&#39;)
 plt.title(&#39;Distribution of Quality Starts by Year&#39;)
 plt.show()</code></pre>
