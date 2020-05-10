@@ -3,130 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.angelineprotacio.com/portfolio/webscraping/</loc>
+    <loc>/portfolio/drafting-batters-part-1/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/drafting-batters-part-2/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/drafting-batters-part-3/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/drafting-batters-part-4/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/quality-starts/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/webscraping/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/portfolio/drafting-batters-part-2/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/portfolio/drafting-batters-part-3/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/portfolio/drafting-batters-part-4/</loc>
-    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/baseball/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/beautifulsoup/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/fantasy/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/ggplot2/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/portfolio/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/positional-talent/</loc>
+    <loc>/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/tags/python/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/quality_start/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.angelineprotacio.com/tags/r/</loc>
+    <loc>/tags/baseball/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/tags/selenium/</loc>
+    <loc>/tags/beautifulsoup/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/tags/</loc>
-    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/tags/war/</loc>
+    <loc>/tags/fantasy/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.angelineprotacio.com/tags/z-scores/</loc>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/linear_regression/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/positional-talent/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quality_start/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/selenium/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/war/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/z-scores/</loc>
     <lastmod>2018-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
