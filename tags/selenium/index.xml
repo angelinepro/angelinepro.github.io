@@ -17,7 +17,7 @@
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.angelineprotacio.com/portfolio/webscraping/</guid>
-      <description>Why Scrape Baseball Data? Scraping Fangraphs Scraping Baseball Reference Wrap Up   Why Scrape Baseball Data? I recently enrolled in a data science bootcamp at Metis. Throughout the 12 weeks of the bootcamp, we work on five different projects to apply what we’ve learned thus far. One of the current projects includes webscraping data to use for predictive modeling. I opted to try my luck at scraping data from Fangraphs and Baseball Reference, neither of which have APIs that make it easy to get their data.</description>
+      <description>Why Scrape Baseball Data? Scraping Fangraphs Scraping Baseball Reference Wrap Up   Why Scrape Baseball Data? In my desire to improve my fantasy team, I realized I was lacking data on quality starts, and thought it would be good to predict this. Before I could start modeling, I needed historical season data and projections, to form the basis for my training, validation, and test data. I planned to get this all from Baseball Reference and Fangraphs, neither of which has an API that makes it easy to get their data.</description>
     </item>
     
   </channel>
