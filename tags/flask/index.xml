@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Angeline Protacio</title>
+    <link>/tags/flask/</link>
+    <description>Recent content in Flask on Angeline Protacio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Album Discoverer</title>
+      <link>/portfolio/album-discoverer/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/album-discoverer/</guid>
+      <description>Who Still Listens to Albums? Getting the Data Principal Components Analysis Artist and Genre - It’s Messy Validating My PCA Artist and Album Examples Recommending Albums Introducing the Album Discoverer Flask App Areas for Improvement   Who Still Listens to Albums? Before the days of streaming music and listening to MP3s, I spent a decent chunk of money on buying CDs. The act of popping a newly acquired CD into a player and listening to an album in its entirety is a lot less familiar now, partly because no one buys CDs anymore, but also because listening to music has changed.</description>
+    </item>
+    
+  </channel>
+</rss>
