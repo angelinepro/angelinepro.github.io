@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angeline Protacio</title>
-    <link>https://www.angelineprotacio.com/</link>
+    <link>/</link>
     <description>Recent content on Angeline Protacio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.angelineprotacio.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Drafting Batters in Fantasy Baseball, Part 1</title>
-      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</link>
+      <link>/portfolio/drafting-batters-part-1/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</guid>
+      <guid>/portfolio/drafting-batters-part-1/</guid>
       <description>My first season in fantasy baseball What is fantasy baseball? The draft How I prepared for the draft My draft strategy Up next   My first season in fantasy baseball I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons.</description>
     </item>
     
     <item>
       <title>Drafting Batters in Fantasy Baseball, Part 2</title>
-      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-2/</link>
+      <link>/portfolio/drafting-batters-part-2/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-2/</guid>
+      <guid>/portfolio/drafting-batters-part-2/</guid>
       <description>Where were we? Positions for feast or famine Should I invest in a time machine? Up next   
 
 Where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this post first.  In the previous post, I wrote about my draft strategy using WAR, and how I selected a catcher (Buster Posey), in the second round, and a shortstop (Andrelton Simmons), in the fourth round.</description>
@@ -33,37 +33,46 @@ Where were we? If you’re reading about my fantasy baseball experience for the 
     
     <item>
       <title>Drafting Batters in Fantasy Baseball, part 3</title>
-      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-3/</link>
+      <link>/portfolio/drafting-batters-part-3/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-3/</guid>
+      <guid>/portfolio/drafting-batters-part-3/</guid>
       <description>Where were we? A better strategy Up Next   Where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this first.  In the last two posts, I wrote about my draft strategy using projected WAR, and explored fantasy talent by defensive position. I discovered that WAR (Wins Above Replacement) was not a great way to select players given my league’s scoring categories.</description>
     </item>
     
     <item>
       <title>Drafting Batters in Fantasy Baseball, Part 4</title>
-      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-4/</link>
+      <link>/portfolio/drafting-batters-part-4/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-4/</guid>
+      <guid>/portfolio/drafting-batters-part-4/</guid>
       <description>Where were we? Projections vs. 2018 season statistics What-if land Lessons learned Next steps   Where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this first.  In the last three posts, I wrote about my draft strategy using projected WAR, and explored fantasy talent by defensive position. I discovered that WAR (Wins Above Replacement) was not a great way to select players given my league’s scoring categories.</description>
     </item>
     
     <item>
+      <title>The Album Discoverer</title>
+      <link>/portfolio/album-discoverer/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/album-discoverer/</guid>
+      <description>Who Still Listens to Albums? Getting the Data Principal Components Analysis Artist and Genre - It’s Messy Validating My PCA Artist and Album Examples Recommending Albums Introducing the Album Discoverer Flask App Areas for Improvement   Who Still Listens to Albums? Before the days of streaming music and listening to MP3s, I spent a decent chunk of money on buying CDs. The act of popping a newly acquired CD into a player and listening to an album in its entirety is a lot less familiar now, partly because no one buys CDs anymore, but also because listening to music has changed.</description>
+    </item>
+    
+    <item>
       <title>Predicting Quality Starts</title>
-      <link>https://www.angelineprotacio.com/portfolio/quality-starts/</link>
+      <link>/portfolio/quality-starts/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/quality-starts/</guid>
+      <guid>/portfolio/quality-starts/</guid>
       <description>Introduction Getting the Data Exploratory Data Analysis Modeling Interpreting the Model Results Wrapping It All Up   Introduction In developing a strategy for drafting pitchers, I had Fangraphs projections for all of the relevant scoring categories except quality starts. I searched high and wide for this through all of the projection systems on Fangraphs, and then I came across this comment, which made me realize I wasn’t the only one who wanted it.</description>
     </item>
     
     <item>
       <title>Webscraping Baseball Data using Python</title>
-      <link>https://www.angelineprotacio.com/portfolio/webscraping/</link>
+      <link>/portfolio/webscraping/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/webscraping/</guid>
+      <guid>/portfolio/webscraping/</guid>
       <description>Why Scrape Baseball Data? Scraping Fangraphs Scraping Baseball Reference Wrap Up   Why Scrape Baseball Data? In my desire to improve my fantasy team, I realized I was lacking data on quality starts, and thought it would be good to predict this. Before I could start modeling, I needed historical season data and projections, to form the basis for my training, validation, and test data. I planned to get this all from Baseball Reference and Fangraphs, neither of which has an API that makes it easy to get their data.</description>
     </item>
     

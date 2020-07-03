@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selenium on Angeline Protacio</title>
-    <link>https://www.angelineprotacio.com/tags/selenium/</link>
+    <link>/tags/selenium/</link>
     <description>Recent content in Selenium on Angeline Protacio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.angelineprotacio.com/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Webscraping Baseball Data using Python</title>
-      <link>https://www.angelineprotacio.com/portfolio/webscraping/</link>
+      <link>/portfolio/webscraping/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.angelineprotacio.com/portfolio/webscraping/</guid>
+      <guid>/portfolio/webscraping/</guid>
       <description>Why Scrape Baseball Data? Scraping Fangraphs Scraping Baseball Reference Wrap Up   Why Scrape Baseball Data? In my desire to improve my fantasy team, I realized I was lacking data on quality starts, and thought it would be good to predict this. Before I could start modeling, I needed historical season data and projections, to form the basis for my training, validation, and test data. I planned to get this all from Baseball Reference and Fangraphs, neither of which has an API that makes it easy to get their data.</description>
     </item>
     
