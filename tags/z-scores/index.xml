@@ -1,33 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Z Scores on Angeline Protacio</title>
-    <link>/tags/z-scores/</link>
-    <description>Recent content in Z Scores on Angeline Protacio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Z-Scores on Angeline Protacio</title>
+    <link>https://www.angelineprotacio.com/tags/z-scores/</link>
+    <description>Recent content in Z-Scores on Angeline Protacio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/z-scores/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Drafting Batters in Fantasy Baseball, Part 4</title>
-      <link>/portfolio/drafting-batters-part-4/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/drafting-batters-part-4/</guid>
-      <description>Where were we? Projections vs. 2018 season statistics What-if land Lessons learned Next steps   Where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this first.  In the last three posts, I wrote about my draft strategy using projected WAR, and explored fantasy talent by defensive position. I discovered that WAR (Wins Above Replacement) was not a great way to select players given my league’s scoring categories.</description>
-    </item>
-    
+    <atom:link href="https://www.angelineprotacio.com/tags/z-scores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drafting Batters in Fantasy Baseball, part 3</title>
-      <link>/portfolio/drafting-batters-part-3/</link>
+      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-3/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/drafting-batters-part-3/</guid>
-      <description>Where were we? A better strategy Up Next   Where were we? If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading this first.  In the last two posts, I wrote about my draft strategy using projected WAR, and explored fantasy talent by defensive position. I discovered that WAR (Wins Above Replacement) was not a great way to select players given my league’s scoring categories.</description>
+      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-3/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#where-were-we&#34;&gt;Where were we?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#a-better-strategy&#34;&gt;A better strategy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#up-next&#34;&gt;Up Next&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div id=&#34;where-were-we&#34; class=&#34;section level3&#34;&gt;&#xA;&lt;h3&gt;Where were we?&lt;/h3&gt;&#xA;&lt;p&gt;If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-1&#34;&gt;this&lt;/a&gt; first.&#xA;&lt;br&gt;&#xA;&lt;/br&gt;&#xA;In the last two posts, I wrote about &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-1&#34;&gt;my draft strategy using projected WAR&lt;/a&gt;, and &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-2&#34;&gt;explored fantasy talent by defensive position&lt;/a&gt;. I discovered that &lt;a href=&#34;https://www.fangraphs.com/library/misc/war/&#34;&gt;WAR&lt;/a&gt; (Wins Above Replacement) was not a great way to select players given my league’s scoring categories. In the absence of a summary statistic to guide my decisions, I looked at all of the scoring categories. I was pretty frazzled by the end of the draft.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Drafting Batters in Fantasy Baseball, Part 4</title>
+      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-4/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-4/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#where-were-we&#34; id=&#34;toc-where-were-we&#34;&gt;Where were we?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#projections-vs.-2018-season-statistics&#34; id=&#34;toc-projections-vs.-2018-season-statistics&#34;&gt;Projections vs. 2018 season statistics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-if-land&#34; id=&#34;toc-what-if-land&#34;&gt;What-if land&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#lessons-learned&#34; id=&#34;toc-lessons-learned&#34;&gt;Lessons learned&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#next-steps&#34; id=&#34;toc-next-steps&#34;&gt;Next steps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div id=&#34;where-were-we&#34; class=&#34;section level3&#34;&gt;&#xA;&lt;h3&gt;Where were we?&lt;/h3&gt;&#xA;&lt;p&gt;If you’re reading about my fantasy baseball experience for the first time, welcome! You may be better oriented by reading &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-1&#34;&gt;this&lt;/a&gt; first.&#xA;&lt;br&gt;&#xA;&lt;/br&gt;&#xA;In the last three posts, I wrote about &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-1&#34;&gt;my draft strategy using projected WAR&lt;/a&gt;, and &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-2&#34;&gt;explored fantasy talent by defensive position&lt;/a&gt;. I discovered that &lt;a href=&#34;https://www.fangraphs.com/library/misc/war/&#34;&gt;WAR&lt;/a&gt; (Wins Above Replacement) was not a great way to select players given my league’s scoring categories. I &lt;a href=&#34;https://www.angelineprotacio.com/../portfolio/drafting-batters-part-3&#34;&gt;calculated z-scores&lt;/a&gt; for my scoring categories instead, and looked at how that would have changed my draft picks. I did some deep reflection on the danger of fandom bias.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

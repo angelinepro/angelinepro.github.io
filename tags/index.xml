@@ -1,159 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Angeline Protacio</title>
-    <link>/tags/</link>
+    <link>https://www.angelineprotacio.com/tags/</link>
     <description>Recent content in Tags on Angeline Protacio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.angelineprotacio.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Baseball</title>
-      <link>/tags/baseball/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/baseball/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beautifulsoup</title>
-      <link>/tags/beautifulsoup/</link>
+      <title>BeautifulSoup</title>
+      <link>https://www.angelineprotacio.com/tags/beautifulsoup/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/beautifulsoup/</guid>
+      <guid>https://www.angelineprotacio.com/tags/beautifulsoup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Corex</title>
-      <link>/tags/corex/</link>
+      <title>CorEx</title>
+      <link>https://www.angelineprotacio.com/tags/corex/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/corex/</guid>
+      <guid>https://www.angelineprotacio.com/tags/corex/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Fantasy</title>
-      <link>/tags/fantasy/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fantasy/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Flask</title>
-      <link>/tags/flask/</link>
+      <link>https://www.angelineprotacio.com/tags/flask/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/flask/</guid>
+      <guid>https://www.angelineprotacio.com/tags/flask/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Ggplot2</title>
-      <link>/tags/ggplot2/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ggplot2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear_regression</title>
-      <link>/tags/linear_regression/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linear_regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pca</title>
-      <link>/tags/pca/</link>
+      <title>PCA</title>
+      <link>https://www.angelineprotacio.com/tags/pca/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pca/</guid>
+      <guid>https://www.angelineprotacio.com/tags/pca/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Positional Talent</title>
-      <link>/tags/positional-talent/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/positional-talent/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Python</title>
-      <link>/tags/python/</link>
+      <link>https://www.angelineprotacio.com/tags/python/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
+      <guid>https://www.angelineprotacio.com/tags/python/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Quality_start</title>
-      <link>/tags/quality_start/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quality_start/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selenium</title>
-      <link>/tags/selenium/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/selenium/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Spotify</title>
-      <link>/tags/spotify/</link>
+      <link>https://www.angelineprotacio.com/tags/spotify/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spotify/</guid>
+      <guid>https://www.angelineprotacio.com/tags/spotify/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>War</title>
-      <link>/tags/war/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/war/</guid>
+      <title>Baseball</title>
+      <link>https://www.angelineprotacio.com/tags/baseball/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/baseball/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Z Scores</title>
-      <link>/tags/z-scores/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/z-scores/</guid>
+      <title>Fantasy</title>
+      <link>https://www.angelineprotacio.com/tags/fantasy/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/fantasy/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Linear_regression</title>
+      <link>https://www.angelineprotacio.com/tags/linear_regression/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/linear_regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quality_Start</title>
+      <link>https://www.angelineprotacio.com/tags/quality_start/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/quality_start/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>https://www.angelineprotacio.com/tags/r/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ggplot2</title>
+      <link>https://www.angelineprotacio.com/tags/ggplot2/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Selenium</title>
+      <link>https://www.angelineprotacio.com/tags/selenium/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/selenium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Positional Talent</title>
+      <link>https://www.angelineprotacio.com/tags/positional-talent/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/positional-talent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WAR</title>
+      <link>https://www.angelineprotacio.com/tags/war/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/war/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Z-Scores</title>
+      <link>https://www.angelineprotacio.com/tags/z-scores/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.angelineprotacio.com/tags/z-scores/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

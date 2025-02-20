@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>War on Angeline Protacio</title>
-    <link>/tags/war/</link>
-    <description>Recent content in War on Angeline Protacio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>WAR on Angeline Protacio</title>
+    <link>https://www.angelineprotacio.com/tags/war/</link>
+    <description>Recent content in WAR on Angeline Protacio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/war/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.angelineprotacio.com/tags/war/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drafting Batters in Fantasy Baseball, Part 1</title>
-      <link>/portfolio/drafting-batters-part-1/</link>
+      <link>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/drafting-batters-part-1/</guid>
-      <description>My first season in fantasy baseball What is fantasy baseball? The draft How I prepared for the draft My draft strategy Up next   My first season in fantasy baseball I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons.</description>
+      <guid>https://www.angelineprotacio.com/portfolio/drafting-batters-part-1/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#my-first-season-in-fantasy-baseball&#34; id=&#34;toc-my-first-season-in-fantasy-baseball&#34;&gt;My first season in fantasy baseball&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#what-is-fantasy-baseball&#34; id=&#34;toc-what-is-fantasy-baseball&#34;&gt;What is fantasy baseball?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#the-draft&#34; id=&#34;toc-the-draft&#34;&gt;The draft&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#how-i-prepared-for-the-draft&#34; id=&#34;toc-how-i-prepared-for-the-draft&#34;&gt;How I prepared for the draft&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#my-draft-strategy&#34; id=&#34;toc-my-draft-strategy&#34;&gt;My draft strategy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#up-next&#34; id=&#34;toc-up-next&#34;&gt;Up next&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div id=&#34;my-first-season-in-fantasy-baseball&#34; class=&#34;section level3&#34;&gt;&#xA;&lt;h3&gt;My first season in fantasy baseball&lt;/h3&gt;&#xA;&lt;p&gt;I joined a fantasy baseball league for the first time this year, which may come as a shock to those of you who know that I love both baseball and data. I was in a fantasy basketball league a few years ago, but because I haven’t watched basketball seriously in about 15 years, these were two very unsatisfying seasons. I was hoping it would encourage me to watch more basketball, but instead I made zero moves, stubbornly refused to trade Kevin Durant, and effectively set my league fees on fire.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

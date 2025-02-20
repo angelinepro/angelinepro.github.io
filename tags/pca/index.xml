@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pca on Angeline Protacio</title>
-    <link>/tags/pca/</link>
-    <description>Recent content in Pca on Angeline Protacio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>PCA on Angeline Protacio</title>
+    <link>https://www.angelineprotacio.com/tags/pca/</link>
+    <description>Recent content in PCA on Angeline Protacio</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/pca/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://www.angelineprotacio.com/tags/pca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Album Discoverer</title>
-      <link>/portfolio/album-discoverer/</link>
+      <link>https://www.angelineprotacio.com/portfolio/album-discoverer/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/album-discoverer/</guid>
-      <description>Who Still Listens to Albums? Getting the Data Principal Components Analysis Artist and Genre - It’s Messy Validating My PCA Artist and Album Examples Recommending Albums Introducing the Album Discoverer Flask App Areas for Improvement   Who Still Listens to Albums? Before the days of streaming music and listening to MP3s, I spent a decent chunk of money on buying CDs. The act of popping a newly acquired CD into a player and listening to an album in its entirety is a lot less familiar now, partly because no one buys CDs anymore, but also because listening to music has changed.</description>
+      <guid>https://www.angelineprotacio.com/portfolio/album-discoverer/</guid>
+      <description>&lt;div id=&#34;TOC&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#who-still-listens-to-albums&#34;&gt;Who Still Listens to Albums?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#getting-the-data&#34;&gt;Getting the Data&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#principal-components-analysis&#34;&gt;Principal Components Analysis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#artist-and-genre---its-messy&#34;&gt;Artist and Genre - It’s Messy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#validating-my-pca&#34;&gt;Validating My PCA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#artist-and-album-examples&#34;&gt;Artist and Album Examples&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#recommending-albums&#34;&gt;Recommending Albums&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#introducing-the-album-discoverer-flask-app&#34;&gt;Introducing the Album Discoverer Flask App&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#areas-for-improvement&#34;&gt;Areas for Improvement&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div id=&#34;who-still-listens-to-albums&#34; class=&#34;section level3&#34;&gt;&#xA;&lt;h3&gt;Who Still Listens to Albums?&lt;/h3&gt;&#xA;&lt;p&gt;Before the days of streaming music and listening to MP3s, I spent a decent chunk of money on buying CDs. The act of popping a newly acquired CD into a player and listening to an album in its entirety is a lot less familiar now, partly because no one buys CDs anymore, but also because listening to music has changed. With the advent of streaming music, it’s become much easier to make and listen to playlists. Thanks to Spotify, the playlist is easier to create and distribute than its predecessor, the mixtape/burned CD, and now playlists are everywhere.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
